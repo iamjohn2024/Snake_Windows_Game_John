@@ -1,0 +1,2 @@
+# Snake_Windows_Game_John
+ A Windows game created when I was studying linked lists in DSA lessons. The exe file can be executed directly on your PC. After this I will write a Plants v.s. Zombies game both on PC and Andriod according to the nice conversation with my best friend in CS studies:) She's very fascinated in the game. Hope my audience can offer more feedbacks on Github, Youtube, Bilibili, LRB, WeChat, WhatsApp and other platforms.
